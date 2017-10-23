@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dialog Box</string>
+
+    <string name="dialog_text">Dialog Box Body</string>
+
+    <string name="dialog_title">Dialog Box</string>
+
+</resources>
